@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wsblataiai
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on correction student homework by Artificial intelligence.
+- 💞️ I’m looking to collaborate on students' Homework correction with Artificial intelligence.
 - 📫 How to reach me 13956063193@139.com
 
 <!---
